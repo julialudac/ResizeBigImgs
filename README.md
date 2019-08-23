@@ -8,6 +8,8 @@ It has been built using classes from other developers:
 * ImageResizer from *https://www.codejava.net/java-se/graphics/how-to-resize-images-in-java*
 * Filewalker from *https://stackoverflow.com/questions/2056221/recursively-list-files-in-java*
 
+So my biggest contribution is class ResizeImgTooBig.
+
 ## Content
 For those of you who don't care about the code source and just want to use the program, just download the *.class* files located into *compiledClass* folder.
 If you want the source code, download the *.java* files and compile them yourself: `javac Main.java`

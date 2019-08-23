@@ -18,14 +18,5 @@ public class Main{
 
 
 		}
-	//	public static void main(String[] args) {
-	//	Filewalker fw = new Filewalker();
-	//	fw.walkNReturn("C:/Users/julia/Downloads/apart");
-	//	ArrayList<String> al = fw.copyAl(); 
-	//	System.out.println("--------- In the list form: ----------------------------");
-	//	for(int i=0; i<al.size(); i++) {
-	//		System.out.println(al.get(i));
-	//	}
-	//}
 
 }
