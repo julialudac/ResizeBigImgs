@@ -47,6 +47,7 @@ public class ResizeImgTooBig{
 			String currentPath = al.get(i);
 			// we are only interested in images
 			String suffix = currentPath.substring(currentPath.lastIndexOf(".")+1, currentPath.length()); 
+			suffix = suffix.toLowerCase();
 			if(suffix.equals("jpg") || suffix.equals("jpeg") || suffix.equals("png")) { // TODO complete and also handle uppercase when necessary
 				potentiallyResizeOne(currentPath);
 			}
